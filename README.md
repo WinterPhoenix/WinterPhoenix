@@ -12,19 +12,23 @@ You can contact me via:
 Please see the [Help And Support Board](https://solsticegamestudios.com/forums/forums/support/) on the Forums!
 
 ### ❄️ Other Accounts
-[Steam](https://steamcommunity.com/id/WinterPhoenix96/)</br>
-[Bluesky](https://bsky.app/profile/winteris.moe)</br>
-[Spotify](https://open.spotify.com/user/winterphoenix96)</br>
-[MyAnimeList](https://myanimelist.net/profile/WinterPhoenix)</br>
+- [Steam](https://steamcommunity.com/id/WinterPhoenix96/)</br>
+- [Bluesky](https://bsky.app/profile/winteris.moe)</br>
+- [Spotify](https://open.spotify.com/user/winterphoenix96)</br>
+- [MyAnimeList](https://myanimelist.net/profile/WinterPhoenix)</br>
 
 ### ❄️ Links
-[Personal Website](https://winteris.moe)</br>
-[Solstice Game Studios](https://solsticegamestudios.com)</br>
-[YukiTheater](https://yukitheater.org)</br>
-[GModPatchTool Guide](https://solsticegamestudios.com/fixmedia/)</br>
-[GModHealth](https://gmodhealth.dev)</br>
+- [Personal Website](https://winteris.moe)</br>
+- [Solstice Game Studios](https://solsticegamestudios.com)</br>
+- [YukiTheater](https://yukitheater.org)</br>
+- [GModPatchTool Guide](https://solsticegamestudios.com/fixmedia/)</br>
+- [GModHealth](https://gmodhealth.dev)</br>
 
 ### ❄️ System Specifications
+<details>
+
+<summary>Expand for Details</summary>
+
 <ins>**Desktop**</ins></br>
 **Motherboard:** *ASRock X570 Taichi*</br>
 **Processor:** *AMD Ryzen 9 5950X (16 Cores, 32 Threads)*</br>
@@ -52,3 +56,5 @@ Please see the [Help And Support Board](https://solsticegamestudios.com/forums/f
 **RAM:** *8GB @ 2133 MT/s, Timing 11-11-11-28*</br>
 **Video Card:** *NVIDIA GeForce MX150 (VRAM: 2GB)*</br>
 **Operating System:** *Ubuntu Desktop 24.04.1 LTS*</br>
+
+</details>
