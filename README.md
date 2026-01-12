@@ -32,28 +32,35 @@ Please see the [Help And Support Board](https://solsticegamestudios.com/forums/f
 <ins>**Desktop**</ins></br>
 **Motherboard:** *ASRock X570 Taichi*</br>
 **Processor:** *AMD Ryzen 9 5950X (16 Cores, 32 Threads)*</br>
-**RAM:** *64GB @ 3600 MT/s, Timing 16-16-16-36, F4-3600C16D-32GTZN x2*</br>
+**RAM:** *64GB DDR4 @ 3600 MT/s, Timing 16-16-16-36, F4-3600C16D-32GTZN x2*</br>
 **Video Card:** *EVGA GeForce RTX 3080 Ti XC3 GAMING (VRAM: 12GB)*</br>
 **Operating System:** *Windows 10 Pro 64-bit (22H2)*</br>
 
 <ins>**Home Server #1**</ins></br>
+**Motherboard:** *Raspberry Pi 4 Model B Rev 1.2*</br>
+**Processor:** *Broadcom BCM2711 (4 Cores, 4 Threads)*</br>
+**RAM:** *4GB LPDDR4 @ 3200MT/s*</br>
+**Video Card:** *Integrated SoC*</br>
+**Operating System:** *Raspberry Pi OS (Debian 12)*</br>
+
+<ins>**Home Server #2**</ins></br>
 **Motherboard:** *ASUS ROG STRIX X470-F*</br>
 **Processor:** *AMD Ryzen 5 3600 (6 Cores, 12 Threads)*</br>
-**RAM:** *32GB @ 3600 MT/s, Timing 19-20-20-40, F4-3600C19D-32GVRB*</br>
+**RAM:** *32GB DDR4 @ 3600 MT/s, Timing 19-20-20-40, F4-3600C19D-32GVRB*</br>
 **Video Card:** *EVGA GeForce GTX 1060 SSC GAMING (VRAM: 6GB)*</br>
 **Operating System:** *Ubuntu Server 20.04.6 LTS*</br>
 
-<ins>**Home Server #2**</ins></br>
+<ins>**Home Server #3**</ins></br>
 **Motherboard:** *MSI Z87-G45*</br>
 **Processor:** *Intel Core i7-4790K (4 Cores, 8 Threads)*</br>
-**RAM:** *16GB @ 1600 MT/s, Timing 7-8-8-24, Model Unknown*</br>
+**RAM:** *16GB DDR3 @ 1600 MT/s, Timing 7-8-8-24, Model Unknown*</br>
 **Video Card:** *SAPPHIRE NITRO+ Radeon RX 5700 XT (VRAM: 8GB)*</br>
-**Operating System:** *macOS Ventura 13.3 (Hackintosh via OpenCore)*</br>
+**Operating System:** *macOS Sonoma 14.8.1 (Hackintosh via OpenCore)*</br>
 
 <ins>**Laptop**</ins></br>
 **Model:** *Acer Aspire E 15 E5-576G-5762*</br>
 **Processor:** *Intel Core i5-8250U (4 Cores, 8 Threads)*</br>
-**RAM:** *8GB @ 2133 MT/s, Timing 11-11-11-28*</br>
+**RAM:** *8GB DDR3 @ 2133 MT/s, Timing 11-11-11-28*</br>
 **Video Card:** *NVIDIA GeForce MX150 (VRAM: 2GB)*</br>
 **Operating System:** *Ubuntu Desktop 24.04.1 LTS*</br>
 
